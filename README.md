@@ -119,5 +119,3 @@ Agora que o sistema está funcionando localmente, podemos:
 - **Enviar os dados via MQTT** para permitir acesso remoto.
 - **Armazenar os dados em uma base de dados** como Firebase ou InfluxDB.
 - **Criar alertas para valores críticos** usando notificações.
-
-Caso tenha dúvidas ou melhorias, fique à vontade para contribuir! 🚀🔥
