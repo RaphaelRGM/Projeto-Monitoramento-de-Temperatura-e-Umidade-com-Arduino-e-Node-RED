@@ -22,6 +22,10 @@ Antes de carregar o código no Arduino, é necessário instalar as seguintes bib
 - **DHT Sensor Library** (para leitura do DHT11)
 - **ArduinoJson** (para formatação dos dados em JSON)
 
+📌 **Download das bibliotecas**:  
+As bibliotecas necessárias podem ser baixadas no link abaixo:  
+🔗 [**Clique aqui para baixar as bibliotecas do DHT11**](https://drive.google.com/drive/folders/1YTKC7STYfgaNklYcaoc8ZF8Y6zBc15mM?usp=sharing)
+
 📌 **Passos para instalação das bibliotecas**:
 1. Abra a **Arduino IDE**.
 2. Vá até **Ferramentas** → **Gerenciar Bibliotecas**.
